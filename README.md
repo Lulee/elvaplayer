@@ -1,4 +1,5 @@
 # elvaplayer
+使用 vue 全家桶开发的音乐播放器，高仿网易云音乐
 
 ## Project setup
 ```
